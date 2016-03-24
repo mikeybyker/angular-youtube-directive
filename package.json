@@ -1,0 +1,25 @@
+{
+  "name": "angular-youtube",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mikeybyker/angular-youtube-directive.git"
+  },
+  "main": "dist/angular-youtube.min.js",
+  "author": "mikeybyker+github@gmail.com",
+  "description": "A straight forward drop-in Angular.js YouTube directive",
+  "keywords": [
+    "angular",
+    "angularjs",
+    "youtube"
+  ],
+  "dependencies": {
+    
+  },
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-ng-annotate": "^2.0.0",
+    "gulp-uglify": "^1.0.1",
+    "gulp-rename": "^1.2.2"
+  }
+}
