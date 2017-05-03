@@ -1,6 +1,8 @@
 # YouTube Directive
 
-A straight forward drop-in Angular.js YouTube directive. Supply the video id (plus dimensions and any params you want) and that's it. No dependencies outside of angular. Based upon a [Phil Oxrud](http://blog.oxrud.com/posts/creating-youtube-directive/) blog post.
+A straight forward drop-in Angular.js YouTube directive. Supply the video id (plus dimensions and any params you want) and that's it. Based upon a [Phil Oxrud](http://blog.oxrud.com/posts/creating-youtube-directive/) blog post.
+
+Alternatively, there's [the component version](https://github.com/mikeybyker/angular-youtube-component) if you're using angular 1.5+.
 
 ### Usage
 Bare bones
@@ -32,7 +34,7 @@ See it/play around: [Plnkr](http://plnkr.co/edit/uOp9hYc82wUhN5XDMPtA?p=preview)
 
 
 ### Version
-0.1.0
+0.1.1
 
 
 Mike
